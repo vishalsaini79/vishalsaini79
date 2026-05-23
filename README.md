@@ -1,16 +1,75 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vishal Saini</h1>
 
-<!--
-**vishalsaini79/vishalsaini79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Full Stack Developer | Java & DSA | MERN Stack 
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 B.Tech CSE Student at JSS Academy of Technical Education, Noida
+- 💻 Passionate about Full Stack Web Development and Problem Solving
+- 🌱 Currently improving my DSA and MERN Stack skills
+- 📫 Email: sainivishal8954@gmail.com
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- Java
+- JavaScript
+- Python
+- SQL
+- C
+
+### 🎨 Frontend
+- React.js
+- HTML
+- CSS
+- Tailwind CSS
+- Bootstrap
+
+### ⚙️ Backend
+- Node.js
+- Express.js
+- REST APIs
+
+### 🗄️ Database
+- MongoDB
+- MySQL
+
+### 🧰 Tools
+- Git
+- GitHub
+- VS Code
+- IntelliJ IDEA
+
+---
+
+## 📌 Featured Projects
+
+### 🌍 Wanderlust Travel App
+A full-stack travel listing web application with authentication, reviews, and CRUD functionality.
+
+### ✂️ Background Removal SaaS
+AI-powered background removal application with Razorpay integration and user authentication.
+
+### 🤖 Gemini AI Chatbot
+Responsive AI chatbot integrated using Gemini API.
+
+### 🔍 Image Search Engine
+Image search web app using external APIs and responsive UI.
+
+---
+
+
+## 🔗 Connect With Me
+
+- 💼 LinkedIn: [click here](https://www.linkedin.com/in/vishal-saini-4ba3b224a/?skipRedirect=true)
+- 📧 Email: sainivishal8954@gmail.com
+
+---
+
+⭐ Always learning and building new things.
